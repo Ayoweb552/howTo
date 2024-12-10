@@ -1,2 +1,3 @@
 👋 Welcome to Ayoweb552 it talks about bread and other food Stuff
-You can just type Index.html to see the website that I made 
+If you want to see my recipie website type AyowebProject/howTo/index.html
+and you will see the page.
