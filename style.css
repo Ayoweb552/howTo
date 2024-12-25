@@ -49,7 +49,17 @@ a:hover {
 
 ol,
 ul {
-    padding-left: 40px;
+    padding: 40px;
+}
+
+ol li {
+    list-style-type: decimal;
+    padding: 10px;
+}
+
+ul li {
+    list-style-image: url("../images/Gears lists.png");
+    padding: 5px;
 }
 
 .image-container {
