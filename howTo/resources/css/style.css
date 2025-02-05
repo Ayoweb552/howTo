@@ -31,12 +31,14 @@ h3 {
 
 nav {
     padding: 20px 0 30px 10px;
-    width: 55%;
+    display: hidden;
+    text-align: center;
     margin: 20px auto;
 }
 
 a {
     background-color: #3a4660;
+    display: inline-block;
     color: #c9af98;
     text-decoration: none;
     padding: 20px;
