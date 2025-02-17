@@ -1,0 +1,2474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Color Letters.svg.2024_05_25_22_06_41.0.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#b9b9b9"
+     bordercolor="#8b8b8b"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8620677"
+     inkscape:cx="397.40768"
+     inkscape:cy="730.10235"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid21"
+       units="mm"
+       originx="396.85039"
+       originy="561.25984"
+       spacingx="0"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.38039216"
+       color="#0099e5"
+       opacity="0.25882353"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1492"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0ee0ff;stop-opacity:1;"
+         offset="0"
+         id="stop1490" />
+      <stop
+         style="stop-color:#d964ff;stop-opacity:1;"
+         offset="1"
+         id="stop1492" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1487"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#428bff;stop-opacity:1;"
+         offset="0"
+         id="stop1486" />
+      <stop
+         style="stop-color:#d964ff;stop-opacity:1;"
+         offset="1"
+         id="stop1487" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect62"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       id="linearGradient60"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0ee6ff;stop-opacity:1;"
+         offset="0"
+         id="stop60" />
+      <stop
+         style="stop-color:#428bff;stop-opacity:1;"
+         offset="0.5"
+         id="stop62" />
+      <stop
+         style="stop-color:#d964ff;stop-opacity:1;"
+         offset="1"
+         id="stop61" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect46"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,13.439859,0,1 @ F,0,0,1,0,3.9246908,0,1 @ F,0,0,1,0,6.1549657,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect45"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect33"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,15.949024,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20.953441,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,37.979023,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,20.878417,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect21"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,29.860758,0,1 @ F,0,0,1,0,20.416238,0,1 @ F,0,0,1,0,18.607714,0,1 @ F,0,0,1,0,22.827604,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect20"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,11.398295,0,1 @ F,0,0,1,0,2.4312494,0,1 @ F,0,0,1,0,6.5798467,0,1 @ F,0,0,1,0,7.1737908,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect19"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,1,1,0,22.227011,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,22.227011,0,1 @ F,0,0,1,0,30.47401,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-50.176675 : 258.47718 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="226.13591 : 197.79112 : 1"
+       inkscape:persp3d-origin="75.721836 : 94.437254 : 1"
+       id="perspective6" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter48"
+       x="-0.097267086"
+       y="-0.65832409"
+       width="1.2242547"
+       height="2.1625723">
+      <feFlood
+         result="flood"
+         in="SourceGraphic"
+         flood-opacity="0.698039"
+         flood-color="rgb(0,0,0)"
+         id="feFlood47" />
+      <feGaussianBlur
+         result="blur"
+         in="SourceGraphic"
+         stdDeviation="1.500000"
+         id="feGaussianBlur47" />
+      <feOffset
+         result="offset"
+         in="blur"
+         dx="1.100000"
+         dy="-1.100000"
+         id="feOffset47" />
+      <feComposite
+         result="comp1"
+         operator="out"
+         in="flood"
+         in2="offset"
+         id="feComposite47" />
+      <feComposite
+         result="fbSourceGraphic"
+         operator="atop"
+         in="comp1"
+         in2="SourceGraphic"
+         id="feComposite48" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix59" />
+      <feFlood
+         id="feFlood59"
+         result="flood"
+         in="fbSourceGraphic"
+         flood-opacity="0.478431"
+         flood-color="rgb(0,0,0)" />
+      <feGaussianBlur
+         id="feGaussianBlur59"
+         result="blur"
+         in="fbSourceGraphic"
+         stdDeviation="1.500000" />
+      <feOffset
+         id="feOffset59"
+         result="offset"
+         in="blur"
+         dx="1.100000"
+         dy="-1.100000" />
+      <feComposite
+         id="feComposite59"
+         result="comp1"
+         operator="out"
+         in="offset"
+         in2="flood" />
+      <feComposite
+         id="feComposite60"
+         result="comp2"
+         operator="atop"
+         in="comp1"
+         in2="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60"
+       id="linearGradient61"
+       x1="45.916441"
+       y1="161.7625"
+       x2="51.542963"
+       y2="161.7625"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2972341,0,0,1.2972341,-14.082244,-48.885153)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1487"
+       id="linearGradient1485"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2972341,0,0,1.2972341,15.750356,-9.5040196)"
+       x1="45.916441"
+       y1="161.7625"
+       x2="51.542963"
+       y2="161.7625" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1492"
+       id="linearGradient1488"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2972341,0,0,1.2972341,50.820448,-22.000372)"
+       x1="45.916441"
+       y1="161.7625"
+       x2="51.542963"
+       y2="161.7625" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1492">
+      <rect
+         style="opacity:1;fill:#051059;fill-opacity:1;stroke-width:4.99999"
+         id="rect1493"
+         width="67.317322"
+         height="42.198917"
+         x="59.681324"
+         y="167.81773"
+         ry="0" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1970"
+       x="0.11444692"
+       y="-0.04840113"
+       width="0.73942556"
+       height="1.0968023">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.85103137"
+         id="feGaussianBlur1970" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1970">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1970"
+         width="27.589445"
+         height="14.336632"
+         x="96.589432"
+         y="174.83133"
+         ry="2.8504927" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1970-0">
+      <rect
+         style="opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1970-7"
+         width="27.589445"
+         height="14.336632"
+         x="96.589432"
+         y="174.83133"
+         ry="2.8504927" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1492-9">
+      <rect
+         style="opacity:1;fill:#051059;fill-opacity:1;stroke-width:4.99999"
+         id="rect1493-6"
+         width="67.317322"
+         height="42.198917"
+         x="59.681324"
+         y="167.81773"
+         ry="0" />
+    </clipPath>
+    <filter
+       inkscape:label="Cross Noise"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Adds a small scale screen like graininess"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1977"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="1"
+         seed="0"
+         result="result0"
+         id="feTurbulence1976" />
+      <feConvolveMatrix
+         kernelMatrix="-2 0 -2 0 -10 0 -2 0 -2 "
+         order="3 3"
+         result="result5"
+         id="feConvolveMatrix1976" />
+      <feColorMatrix
+         result="result4"
+         values="0"
+         type="saturate"
+         in="result5"
+         id="feColorMatrix1976" />
+      <feComposite
+         in2="result4"
+         in="SourceGraphic"
+         operator="arithmetic"
+         k1="1.5"
+         k2="0.5"
+         k3="0.5"
+         result="result2"
+         id="feComposite1976" />
+      <feBlend
+         result="result6"
+         in2="result4"
+         mode="normal"
+         id="feBlend1976" />
+      <feComposite
+         in2="SourceGraphic"
+         in="result6"
+         operator="in"
+         result="result3"
+         id="feComposite1977" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2014"
+       gradientUnits="userSpaceOnUse"
+       x="96.407135"
+       y="173.77582">
+      <meshrow
+         id="meshrow2014">
+        <meshpatch
+           id="meshpatch2014">
+          <stop
+             path="c 8.0828,0  16.1656,0  24.2484,0"
+             style="stop-color:#ffffff;stop-opacity:0"
+             id="stop2015" />
+          <stop
+             path="c 0,5.48255  0,10.9651  0,16.4477"
+             style="stop-color:#ffffff;stop-opacity:0.1525974"
+             id="stop2016" />
+          <stop
+             path="c -8.0828,0  -16.1656,0  -24.2484,0"
+             style="stop-color:#ffffff;stop-opacity:0.2012987"
+             id="stop2017" />
+          <stop
+             path="c 0,-5.48255  0,-10.9651  0,-16.4477"
+             style="stop-color:#ffffff;stop-opacity:0.19805194"
+             id="stop2018" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2897"
+       gradientUnits="userSpaceOnUse"
+       x="96.407135"
+       y="173.77582"
+       gradientTransform="translate(-0.10199828)">
+      <meshrow
+         id="meshrow2900">
+        <meshpatch
+           id="meshpatch2900">
+          <stop
+             path="c 8.0828,0  16.1656,0  24.2484,0"
+             style="stop-color:#ffffff;stop-opacity:0"
+             id="stop2897" />
+          <stop
+             path="c 0,5.48255  0,10.9651  0,16.4477"
+             style="stop-color:#ffffff;stop-opacity:0.1525974"
+             id="stop2898" />
+          <stop
+             path="c -8.0828,0  -16.1656,0  -24.2484,0"
+             style="stop-color:#ffffff;stop-opacity:0.2012987"
+             id="stop2899" />
+          <stop
+             path="c 0,-5.48255  0,-10.9651  0,-16.4477"
+             style="stop-color:#ffffff;stop-opacity:0.19805194"
+             id="stop2900" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#051059;fill-opacity:1;stroke-width:4.99999"
+       id="rect60"
+       width="67.317322"
+       height="42.198917"
+       x="59.681324"
+       y="167.28856"
+       ry="0" />
+    <circle
+       style="opacity:1;fill:url(#linearGradient61);stroke-width:6.48615"
+       id="path60"
+       cx="49.131596"
+       cy="160.95871"
+       r="3.6494589" />
+    <g
+       id="g2287"
+       transform="translate(0,-0.52916663)"
+       clip-path="url(#clipPath1492)">
+      <use
+         xlink:href="#path60"
+         transform="translate(1.1052,13.564)"
+         id="use1249" />
+      <use
+         xlink:href="#path60"
+         transform="translate(1.67425,13.8262)"
+         id="use1250" />
+      <use
+         xlink:href="#path60"
+         transform="translate(2.2433,14.0884)"
+         id="use1251" />
+      <use
+         xlink:href="#path60"
+         transform="translate(2.81235,14.3507)"
+         id="use1252" />
+      <use
+         xlink:href="#path60"
+         transform="translate(3.3814,14.6129)"
+         id="use1253" />
+      <use
+         xlink:href="#path60"
+         transform="translate(3.95045,14.8751)"
+         id="use1254" />
+      <use
+         xlink:href="#path60"
+         transform="translate(4.5195,15.1373)"
+         id="use1255" />
+      <use
+         xlink:href="#path60"
+         transform="translate(5.08855,15.3995)"
+         id="use1256" />
+      <use
+         xlink:href="#path60"
+         transform="translate(5.66628,15.6419)"
+         id="use1257" />
+      <use
+         xlink:href="#path60"
+         transform="translate(6.24567,15.8804)"
+         id="use1258" />
+      <use
+         xlink:href="#path60"
+         transform="translate(6.82505,16.1189)"
+         id="use1259" />
+      <use
+         xlink:href="#path60"
+         transform="translate(7.40444,16.3574)"
+         id="use1260" />
+      <use
+         xlink:href="#path60"
+         transform="translate(7.98382,16.5959)"
+         id="use1261" />
+      <use
+         xlink:href="#path60"
+         transform="translate(8.56321,16.8344)"
+         id="use1262" />
+      <use
+         xlink:href="#path60"
+         transform="translate(9.14259,17.073)"
+         id="use1263" />
+      <use
+         xlink:href="#path60"
+         transform="translate(9.7283,17.2952)"
+         id="use1264" />
+      <use
+         xlink:href="#path60"
+         transform="translate(10.317,17.5097)"
+         id="use1265" />
+      <use
+         xlink:href="#path60"
+         transform="translate(10.9057,17.7242)"
+         id="use1266" />
+      <use
+         xlink:href="#path60"
+         transform="translate(11.4944,17.9387)"
+         id="use1267" />
+      <use
+         xlink:href="#path60"
+         transform="translate(12.0831,18.1532)"
+         id="use1268" />
+      <use
+         xlink:href="#path60"
+         transform="translate(12.6718,18.3677)"
+         id="use1269" />
+      <use
+         xlink:href="#path60"
+         transform="translate(13.2605,18.5822)"
+         id="use1270" />
+      <use
+         xlink:href="#path60"
+         transform="translate(13.8535,18.7841)"
+         id="use1271" />
+      <use
+         xlink:href="#path60"
+         transform="translate(14.4505,18.9743)"
+         id="use1272" />
+      <use
+         xlink:href="#path60"
+         transform="translate(15.0475,19.1645)"
+         id="use1273" />
+      <use
+         xlink:href="#path60"
+         transform="translate(15.6445,19.3547)"
+         id="use1274" />
+      <use
+         xlink:href="#path60"
+         transform="translate(16.2415,19.5449)"
+         id="use1275" />
+      <use
+         xlink:href="#path60"
+         transform="translate(16.8385,19.7352)"
+         id="use1276" />
+      <use
+         xlink:href="#path60"
+         transform="translate(17.4354,19.9254)"
+         id="use1277" />
+      <use
+         xlink:href="#path60"
+         transform="translate(18.0351,20.1067)"
+         id="use1278" />
+      <use
+         xlink:href="#path60"
+         transform="translate(18.6393,20.2723)"
+         id="use1279" />
+      <use
+         xlink:href="#path60"
+         transform="translate(19.2436,20.4379)"
+         id="use1280" />
+      <use
+         xlink:href="#path60"
+         transform="translate(19.8479,20.6035)"
+         id="use1281" />
+      <use
+         xlink:href="#path60"
+         transform="translate(20.4522,20.7691)"
+         id="use1282" />
+      <use
+         xlink:href="#path60"
+         transform="translate(21.0565,20.9347)"
+         id="use1283" />
+      <use
+         xlink:href="#path60"
+         transform="translate(21.6607,21.1003)"
+         id="use1284" />
+      <use
+         xlink:href="#path60"
+         transform="translate(22.2663,21.261)"
+         id="use1285" />
+      <use
+         xlink:href="#path60"
+         transform="translate(22.8768,21.4017)"
+         id="use1286" />
+      <use
+         xlink:href="#path60"
+         transform="translate(23.4874,21.5424)"
+         id="use1287" />
+      <use
+         xlink:href="#path60"
+         transform="translate(24.0979,21.6831)"
+         id="use1288" />
+      <use
+         xlink:href="#path60"
+         transform="translate(24.7085,21.8238)"
+         id="use1289" />
+      <use
+         xlink:href="#path60"
+         transform="translate(25.3191,21.9645)"
+         id="use1290" />
+      <use
+         xlink:href="#path60"
+         transform="translate(25.9296,22.1052)"
+         id="use1291" />
+      <use
+         xlink:href="#path60"
+         transform="translate(26.5404,22.2449)"
+         id="use1292" />
+      <use
+         xlink:href="#path60"
+         transform="translate(27.1562,22.3604)"
+         id="use1293" />
+      <use
+         xlink:href="#path60"
+         transform="translate(27.772,22.4759)"
+         id="use1294" />
+      <use
+         xlink:href="#path60"
+         transform="translate(28.3879,22.5914)"
+         id="use1295" />
+      <use
+         xlink:href="#path60"
+         transform="translate(29.0037,22.7069)"
+         id="use1296" />
+      <use
+         xlink:href="#path60"
+         transform="translate(29.6195,22.8223)"
+         id="use1297" />
+      <use
+         xlink:href="#path60"
+         transform="translate(30.2353,22.9378)"
+         id="use1298" />
+      <use
+         xlink:href="#path60"
+         transform="translate(30.8512,23.0533)"
+         id="use1299" />
+      <use
+         xlink:href="#path60"
+         transform="translate(31.4707,23.1464)"
+         id="use1300" />
+      <use
+         xlink:href="#path60"
+         transform="translate(32.0908,23.2364)"
+         id="use1301" />
+      <use
+         xlink:href="#path60"
+         transform="translate(32.7108,23.3264)"
+         id="use1302" />
+      <use
+         xlink:href="#path60"
+         transform="translate(33.3309,23.4164)"
+         id="use1303" />
+      <use
+         xlink:href="#path60"
+         transform="translate(33.951,23.5064)"
+         id="use1304" />
+      <use
+         xlink:href="#path60"
+         transform="translate(34.571,23.5963)"
+         id="use1305" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.1911,23.6863)"
+         id="use1306" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.8125,23.7669)"
+         id="use1307" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.4343,23.8438)"
+         id="use1308" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.0562,23.9207)"
+         id="use1309" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.6769,24.0054)"
+         id="use1310" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.2959,24.1022)"
+         id="use1311" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.9149,24.1989)"
+         id="use1312" />
+      <use
+         xlink:href="#path60"
+         transform="translate(39.5335,24.298)"
+         id="use1313" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.1462,24.4288)"
+         id="use1314" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.7557,24.5732)"
+         id="use1315" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.3604,24.7369)"
+         id="use1316" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.9557,24.9314)"
+         id="use1317" />
+      <use
+         xlink:href="#path60"
+         transform="translate(42.5458,25.1409)"
+         id="use1318" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.1199,25.3914)"
+         id="use1319" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.6819,25.6666)"
+         id="use1320" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.2302,25.9693)"
+         id="use1321" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.7583,26.306)"
+         id="use1322" />
+      <use
+         xlink:href="#path60"
+         transform="translate(45.2586,26.6828)"
+         id="use1323" />
+      <use
+         xlink:href="#path60"
+         transform="translate(45.7311,27.0938)"
+         id="use1324" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.1717,27.5387)"
+         id="use1325" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.5757,28.0171)"
+         id="use1326" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.937,28.5285)"
+         id="use1327" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.2452,29.0736)"
+         id="use1328" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.502,29.6444)"
+         id="use1329" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.7034,30.2371)"
+         id="use1330" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.8447,30.8468)"
+         id="use1331" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.9179,31.4684)"
+         id="use1332" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.9124,32.0941)"
+         id="use1333" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.837,32.7149)"
+         id="use1334" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.6887,33.3226)"
+         id="use1335" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.472,33.9095)"
+         id="use1336" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.1914,34.4687)"
+         id="use1337" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.8513,34.9939)"
+         id="use1338" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.4557,35.4787)"
+         id="use1339" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.0088,35.9165)"
+         id="use1340" />
+      <use
+         xlink:href="#path60"
+         transform="translate(45.515,36.3008)"
+         id="use1341" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.9806,36.6264)"
+         id="use1342" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.4136,36.891)"
+         id="use1343" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.8214,37.0938)"
+         id="use1344" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.2114,37.2339)"
+         id="use1345" />
+      <use
+         xlink:href="#path60"
+         transform="translate(42.5902,37.3109)"
+         id="use1346" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.9644,37.324)"
+         id="use1347" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.3406,37.2726)"
+         id="use1348" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.7256,37.1561)"
+         id="use1349" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.1264,36.9749)"
+         id="use1350" />
+      <use
+         xlink:href="#path60"
+         transform="translate(39.5484,36.7345)"
+         id="use1351" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.9964,36.4393)"
+         id="use1352" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.4744,36.0939)"
+         id="use1353" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.9859,35.7025)"
+         id="use1354" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.5344,35.269)"
+         id="use1355" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.1231,34.7972)"
+         id="use1356" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.7551,34.2909)"
+         id="use1357" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.4323,33.7546)"
+         id="use1358" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.155,33.1934)"
+         id="use1359" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.9235,32.6117)"
+         id="use1360" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.7377,32.0139)"
+         id="use1361" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.5973,31.4038)"
+         id="use1362" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.502,30.785)"
+         id="use1363" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.4516,30.1609)"
+         id="use1364" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.4456,29.5348)"
+         id="use1365" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.4826,28.9098)"
+         id="use1366" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.5607,28.2885)"
+         id="use1367" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.6781,27.6733)"
+         id="use1368" />
+      <use
+         xlink:href="#path60"
+         transform="translate(35.8327,27.0664)"
+         id="use1369" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.0229,26.4697)"
+         id="use1370" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.2468,25.8848)"
+         id="use1371" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.5027,25.3131)"
+         id="use1372" />
+      <use
+         xlink:href="#path60"
+         transform="translate(36.7993,24.7617)"
+         id="use1373" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.1061,24.2157)"
+         id="use1374" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.4539,23.6952)"
+         id="use1375" />
+      <use
+         xlink:href="#path60"
+         transform="translate(37.8108,23.1805)"
+         id="use1376" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.2053,22.6942)"
+         id="use1377" />
+      <use
+         xlink:href="#path60"
+         transform="translate(38.6053,22.2121)"
+         id="use1378" />
+      <use
+         xlink:href="#path60"
+         transform="translate(39.0391,21.7603)"
+         id="use1379" />
+      <use
+         xlink:href="#path60"
+         transform="translate(39.4757,21.3111)"
+         id="use1380" />
+      <use
+         xlink:href="#path60"
+         transform="translate(39.9444,20.8955)"
+         id="use1381" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.4138,20.4806)"
+         id="use1382" />
+      <use
+         xlink:href="#path60"
+         transform="translate(40.9133,20.1027)"
+         id="use1383" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.4138,19.7259)"
+         id="use1384" />
+      <use
+         xlink:href="#path60"
+         transform="translate(41.9417,19.3889)"
+         id="use1385" />
+      <use
+         xlink:href="#path60"
+         transform="translate(42.4708,19.0536)"
+         id="use1386" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.0247,18.7611)"
+         id="use1387" />
+      <use
+         xlink:href="#path60"
+         transform="translate(43.5799,18.471)"
+         id="use1388" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.1569,18.2275)"
+         id="use1389" />
+      <use
+         xlink:href="#path60"
+         transform="translate(44.7352,17.9869)"
+         id="use1390" />
+      <use
+         xlink:href="#path60"
+         transform="translate(45.332,17.7971)"
+         id="use1391" />
+      <use
+         xlink:href="#path60"
+         transform="translate(45.9299,17.6105)"
+         id="use1392" />
+      <use
+         xlink:href="#path60"
+         transform="translate(46.5392,17.4649)"
+         id="use1393" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.1552,17.3508)"
+         id="use1394" />
+      <use
+         xlink:href="#path60"
+         transform="translate(47.7763,17.2683)"
+         id="use1395" />
+      <use
+         xlink:href="#path60"
+         transform="translate(48.4008,17.2186)"
+         id="use1396" />
+      <use
+         xlink:href="#path60"
+         transform="translate(49.027,17.2023)"
+         id="use1397" />
+      <use
+         xlink:href="#path60"
+         transform="translate(49.6533,17.2198)"
+         id="use1398" />
+      <use
+         xlink:href="#path60"
+         transform="translate(50.2776,17.2713)"
+         id="use1399" />
+      <use
+         xlink:href="#path60"
+         transform="translate(50.8982,17.3571)"
+         id="use1400" />
+      <use
+         xlink:href="#path60"
+         transform="translate(51.513,17.4776)"
+         id="use1401" />
+      <use
+         xlink:href="#path60"
+         transform="translate(52.1198,17.633)"
+         id="use1402" />
+      <use
+         xlink:href="#path60"
+         transform="translate(52.7166,17.8237)"
+         id="use1403" />
+      <use
+         xlink:href="#path60"
+         transform="translate(53.3008,18.0497)"
+         id="use1404" />
+      <use
+         xlink:href="#path60"
+         transform="translate(53.8701,18.3112)"
+         id="use1405" />
+      <use
+         xlink:href="#path60"
+         transform="translate(54.4219,18.6076)"
+         id="use1406" />
+      <use
+         xlink:href="#path60"
+         transform="translate(54.9542,18.9379)"
+         id="use1407" />
+      <use
+         xlink:href="#path60"
+         transform="translate(55.4647,19.301)"
+         id="use1408" />
+      <use
+         xlink:href="#path60"
+         transform="translate(55.9508,19.696)"
+         id="use1409" />
+      <use
+         xlink:href="#path60"
+         transform="translate(56.4103,20.1218)"
+         id="use1410" />
+      <use
+         xlink:href="#path60"
+         transform="translate(56.8404,20.5771)"
+         id="use1411" />
+      <use
+         xlink:href="#path60"
+         transform="translate(57.2384,21.0608)"
+         id="use1412" />
+      <use
+         xlink:href="#path60"
+         transform="translate(57.6031,21.5701)"
+         id="use1413" />
+      <use
+         xlink:href="#path60"
+         transform="translate(57.9344,22.1017)"
+         id="use1414" />
+      <use
+         xlink:href="#path60"
+         transform="translate(58.2335,22.6523)"
+         id="use1415" />
+      <use
+         xlink:href="#path60"
+         transform="translate(58.5022,23.2182)"
+         id="use1416" />
+      <use
+         xlink:href="#path60"
+         transform="translate(58.7349,23.7998)"
+         id="use1417" />
+      <use
+         xlink:href="#path60"
+         transform="translate(58.9628,24.3831)"
+         id="use1418" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.1531,24.98)"
+         id="use1419" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.3365,25.5789)"
+         id="use1420" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.4861,26.1872)"
+         id="use1421" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.6357,26.7956)"
+         id="use1422" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.7853,27.404)"
+         id="use1423" />
+      <use
+         xlink:href="#path60"
+         transform="translate(59.931,28.0133)"
+         id="use1424" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.0676,28.6248)"
+         id="use1425" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.2042,29.2363)"
+         id="use1426" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.3408,29.8478)"
+         id="use1427" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.4865,30.4571)"
+         id="use1428" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.6447,31.0634)"
+         id="use1429" />
+      <use
+         xlink:href="#path60"
+         transform="translate(60.8175,31.6654)"
+         id="use1430" />
+      <use
+         xlink:href="#path60"
+         transform="translate(61.006,32.2628)"
+         id="use1431" />
+      <use
+         xlink:href="#path60"
+         transform="translate(61.2172,32.8522)"
+         id="use1432" />
+      <use
+         xlink:href="#path60"
+         transform="translate(61.4475,33.4348)"
+         id="use1433" />
+      <use
+         xlink:href="#path60"
+         transform="translate(61.7009,34.0074)"
+         id="use1434" />
+      <use
+         xlink:href="#path60"
+         transform="translate(61.9874,34.5644)"
+         id="use1435" />
+      <use
+         xlink:href="#path60"
+         transform="translate(62.3051,35.1041)"
+         id="use1436" />
+      <use
+         xlink:href="#path60"
+         transform="translate(62.6558,35.623)"
+         id="use1437" />
+      <use
+         xlink:href="#path60"
+         transform="translate(63.0402,36.1173)"
+         id="use1438" />
+      <use
+         xlink:href="#path60"
+         transform="translate(63.4586,36.5832)"
+         id="use1439" />
+      <use
+         xlink:href="#path60"
+         transform="translate(63.9113,37.0158)"
+         id="use1440" />
+      <use
+         xlink:href="#path60"
+         transform="translate(64.3979,37.4098)"
+         id="use1441" />
+      <use
+         xlink:href="#path60"
+         transform="translate(64.9175,37.7592)"
+         id="use1442" />
+      <use
+         xlink:href="#path60"
+         transform="translate(65.4678,38.0578)"
+         id="use1443" />
+      <use
+         xlink:href="#path60"
+         transform="translate(66.0454,38.2991)"
+         id="use1444" />
+      <use
+         xlink:href="#path60"
+         transform="translate(66.6434,38.4849)"
+         id="use1445" />
+      <use
+         xlink:href="#path60"
+         transform="translate(67.2546,38.6211)"
+         id="use1446" />
+      <use
+         xlink:href="#path60"
+         transform="translate(67.8754,38.7035)"
+         id="use1447" />
+      <use
+         xlink:href="#path60"
+         transform="translate(68.5007,38.7333)"
+         id="use1448" />
+      <use
+         xlink:href="#path60"
+         transform="translate(69.127,38.7356)"
+         id="use1449" />
+      <use
+         xlink:href="#path60"
+         transform="translate(69.751,38.6824)"
+         id="use1450" />
+      <use
+         xlink:href="#path60"
+         transform="translate(70.372,38.6037)"
+         id="use1451" />
+      <use
+         xlink:href="#path60"
+         transform="translate(70.9895,38.4979)"
+         id="use1452" />
+      <use
+         xlink:href="#path60"
+         transform="translate(71.5992,38.3542)"
+         id="use1453" />
+      <use
+         xlink:href="#path60"
+         transform="translate(72.2048,38.1946)"
+         id="use1454" />
+      <use
+         xlink:href="#path60"
+         transform="translate(72.806,38.0181)"
+         id="use1455" />
+      <use
+         xlink:href="#path60"
+         transform="translate(73.3984,37.814)"
+         id="use1456" />
+      <use
+         xlink:href="#path60"
+         transform="translate(73.9903,37.6086)"
+         id="use1457" />
+      <use
+         xlink:href="#path60"
+         transform="translate(74.5822,37.4033)"
+         id="use1458" />
+      <use
+         xlink:href="#path60"
+         transform="translate(75.1707,37.1881)"
+         id="use1459" />
+      <use
+         xlink:href="#path60"
+         transform="translate(75.759,36.9724)"
+         id="use1460" />
+      <use
+         xlink:href="#path60"
+         transform="translate(76.3474,36.7568)"
+         id="use1461" />
+      <use
+         xlink:href="#path60"
+         transform="translate(76.9431,36.5631)"
+         id="use1462" />
+      <use
+         xlink:href="#path60"
+         transform="translate(77.5392,36.3703)"
+         id="use1463" />
+      <use
+         xlink:href="#path60"
+         transform="translate(78.1353,36.1776)"
+         id="use1464" />
+      <use
+         xlink:href="#path60"
+         transform="translate(78.7423,36.0223)"
+         id="use1465" />
+      <use
+         xlink:href="#path60"
+         transform="translate(79.3535,35.8864)"
+         id="use1466" />
+      <use
+         xlink:href="#path60"
+         transform="translate(79.9691,35.7701)"
+         id="use1467" />
+      <use
+         xlink:href="#path60"
+         transform="translate(80.591,35.694)"
+         id="use1468" />
+      <use
+         xlink:href="#path60"
+         transform="translate(81.2158,35.6502)"
+         id="use1469" />
+      <use
+         xlink:href="#path60"
+         transform="translate(81.842,35.6385)"
+         id="use1470" />
+      <use
+         xlink:href="#path60"
+         transform="translate(82.468,35.6584)"
+         id="use1471" />
+      <use
+         xlink:href="#path60"
+         transform="translate(83.0922,35.7094)"
+         id="use1472" />
+      <use
+         xlink:href="#path60"
+         transform="translate(83.7131,35.791)"
+         id="use1473" />
+      <use
+         xlink:href="#path60"
+         transform="translate(84.3294,35.9027)"
+         id="use1474" />
+      <use
+         xlink:href="#path60"
+         transform="translate(84.9397,36.0442)"
+         id="use1475" />
+      <use
+         xlink:href="#path60"
+         transform="translate(85.5419,36.2171)"
+         id="use1476" />
+      <use
+         xlink:href="#path60"
+         transform="translate(86.1343,36.4209)"
+         id="use1477" />
+      <use
+         xlink:href="#path60"
+         transform="translate(86.7161,36.6528)"
+         id="use1478" />
+      <use
+         xlink:href="#path60"
+         transform="translate(87.286,36.9126)"
+         id="use1479" />
+      <use
+         xlink:href="#path60"
+         transform="translate(87.8426,37.1998)"
+         id="use1480" />
+      <use
+         xlink:href="#path60"
+         transform="translate(88.3843,37.514)"
+         id="use1481" />
+      <use
+         xlink:href="#path60"
+         transform="translate(88.9099,37.8547)"
+         id="use1482"
+         inkscape:label="use1482" />
+      <use
+         xlink:href="#path60"
+         transform="translate(89.4177,38.2214)"
+         id="use1483" />
+      <use
+         xlink:href="#path60"
+         transform="translate(89.9062,38.6137)"
+         id="use1484" />
+      <use
+         xlink:href="#path60"
+         transform="translate(90.3708,39.034)"
+         id="use1485" />
+    </g>
+    <circle
+       style="opacity:1;fill:url(#linearGradient1485);stroke-width:6.48615"
+       id="circle1485"
+       cx="78.964195"
+       cy="200.33984"
+       r="3.6494589" />
+    <circle
+       style="opacity:1;fill:url(#linearGradient1488);stroke-width:6.48615"
+       id="circle1487"
+       cx="114.03429"
+       cy="187.84349"
+       r="3.6494589" />
+    <g
+       id="g1970"
+       style="filter:url(#filter1970)"
+       clip-path="url(#clipPath1970)">
+      <rect
+         style="opacity:1;fill:#051059;fill-opacity:1;stroke-width:4.99999"
+         id="rect1733"
+         width="67.317322"
+         height="42.198917"
+         x="59.681324"
+         y="167.28856"
+         ry="0" />
+      <g
+         id="g1969"
+         transform="translate(0,-0.52916663)"
+         clip-path="url(#clipPath1492)">
+        <use
+           xlink:href="#path60"
+           transform="translate(1.1052,13.564)"
+           id="use1733" />
+        <use
+           xlink:href="#path60"
+           transform="translate(1.67425,13.8262)"
+           id="use1734" />
+        <use
+           xlink:href="#path60"
+           transform="translate(2.2433,14.0884)"
+           id="use1735" />
+        <use
+           xlink:href="#path60"
+           transform="translate(2.81235,14.3507)"
+           id="use1736" />
+        <use
+           xlink:href="#path60"
+           transform="translate(3.3814,14.6129)"
+           id="use1737" />
+        <use
+           xlink:href="#path60"
+           transform="translate(3.95045,14.8751)"
+           id="use1738" />
+        <use
+           xlink:href="#path60"
+           transform="translate(4.5195,15.1373)"
+           id="use1739" />
+        <use
+           xlink:href="#path60"
+           transform="translate(5.08855,15.3995)"
+           id="use1740" />
+        <use
+           xlink:href="#path60"
+           transform="translate(5.66628,15.6419)"
+           id="use1741" />
+        <use
+           xlink:href="#path60"
+           transform="translate(6.24567,15.8804)"
+           id="use1742" />
+        <use
+           xlink:href="#path60"
+           transform="translate(6.82505,16.1189)"
+           id="use1743" />
+        <use
+           xlink:href="#path60"
+           transform="translate(7.40444,16.3574)"
+           id="use1744" />
+        <use
+           xlink:href="#path60"
+           transform="translate(7.98382,16.5959)"
+           id="use1745" />
+        <use
+           xlink:href="#path60"
+           transform="translate(8.56321,16.8344)"
+           id="use1746" />
+        <use
+           xlink:href="#path60"
+           transform="translate(9.14259,17.073)"
+           id="use1747" />
+        <use
+           xlink:href="#path60"
+           transform="translate(9.7283,17.2952)"
+           id="use1748" />
+        <use
+           xlink:href="#path60"
+           transform="translate(10.317,17.5097)"
+           id="use1749" />
+        <use
+           xlink:href="#path60"
+           transform="translate(10.9057,17.7242)"
+           id="use1750" />
+        <use
+           xlink:href="#path60"
+           transform="translate(11.4944,17.9387)"
+           id="use1751" />
+        <use
+           xlink:href="#path60"
+           transform="translate(12.0831,18.1532)"
+           id="use1752" />
+        <use
+           xlink:href="#path60"
+           transform="translate(12.6718,18.3677)"
+           id="use1753" />
+        <use
+           xlink:href="#path60"
+           transform="translate(13.2605,18.5822)"
+           id="use1754" />
+        <use
+           xlink:href="#path60"
+           transform="translate(13.8535,18.7841)"
+           id="use1755" />
+        <use
+           xlink:href="#path60"
+           transform="translate(14.4505,18.9743)"
+           id="use1756" />
+        <use
+           xlink:href="#path60"
+           transform="translate(15.0475,19.1645)"
+           id="use1757" />
+        <use
+           xlink:href="#path60"
+           transform="translate(15.6445,19.3547)"
+           id="use1758" />
+        <use
+           xlink:href="#path60"
+           transform="translate(16.2415,19.5449)"
+           id="use1759" />
+        <use
+           xlink:href="#path60"
+           transform="translate(16.8385,19.7352)"
+           id="use1760" />
+        <use
+           xlink:href="#path60"
+           transform="translate(17.4354,19.9254)"
+           id="use1761" />
+        <use
+           xlink:href="#path60"
+           transform="translate(18.0351,20.1067)"
+           id="use1762" />
+        <use
+           xlink:href="#path60"
+           transform="translate(18.6393,20.2723)"
+           id="use1763" />
+        <use
+           xlink:href="#path60"
+           transform="translate(19.2436,20.4379)"
+           id="use1764" />
+        <use
+           xlink:href="#path60"
+           transform="translate(19.8479,20.6035)"
+           id="use1765" />
+        <use
+           xlink:href="#path60"
+           transform="translate(20.4522,20.7691)"
+           id="use1766" />
+        <use
+           xlink:href="#path60"
+           transform="translate(21.0565,20.9347)"
+           id="use1767" />
+        <use
+           xlink:href="#path60"
+           transform="translate(21.6607,21.1003)"
+           id="use1768" />
+        <use
+           xlink:href="#path60"
+           transform="translate(22.2663,21.261)"
+           id="use1769" />
+        <use
+           xlink:href="#path60"
+           transform="translate(22.8768,21.4017)"
+           id="use1770" />
+        <use
+           xlink:href="#path60"
+           transform="translate(23.4874,21.5424)"
+           id="use1771" />
+        <use
+           xlink:href="#path60"
+           transform="translate(24.0979,21.6831)"
+           id="use1772" />
+        <use
+           xlink:href="#path60"
+           transform="translate(24.7085,21.8238)"
+           id="use1773" />
+        <use
+           xlink:href="#path60"
+           transform="translate(25.3191,21.9645)"
+           id="use1774" />
+        <use
+           xlink:href="#path60"
+           transform="translate(25.9296,22.1052)"
+           id="use1775" />
+        <use
+           xlink:href="#path60"
+           transform="translate(26.5404,22.2449)"
+           id="use1776" />
+        <use
+           xlink:href="#path60"
+           transform="translate(27.1562,22.3604)"
+           id="use1777" />
+        <use
+           xlink:href="#path60"
+           transform="translate(27.772,22.4759)"
+           id="use1778" />
+        <use
+           xlink:href="#path60"
+           transform="translate(28.3879,22.5914)"
+           id="use1779" />
+        <use
+           xlink:href="#path60"
+           transform="translate(29.0037,22.7069)"
+           id="use1780" />
+        <use
+           xlink:href="#path60"
+           transform="translate(29.6195,22.8223)"
+           id="use1781" />
+        <use
+           xlink:href="#path60"
+           transform="translate(30.2353,22.9378)"
+           id="use1782" />
+        <use
+           xlink:href="#path60"
+           transform="translate(30.8512,23.0533)"
+           id="use1783" />
+        <use
+           xlink:href="#path60"
+           transform="translate(31.4707,23.1464)"
+           id="use1784" />
+        <use
+           xlink:href="#path60"
+           transform="translate(32.0908,23.2364)"
+           id="use1785" />
+        <use
+           xlink:href="#path60"
+           transform="translate(32.7108,23.3264)"
+           id="use1786" />
+        <use
+           xlink:href="#path60"
+           transform="translate(33.3309,23.4164)"
+           id="use1787" />
+        <use
+           xlink:href="#path60"
+           transform="translate(33.951,23.5064)"
+           id="use1788" />
+        <use
+           xlink:href="#path60"
+           transform="translate(34.571,23.5963)"
+           id="use1789" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.1911,23.6863)"
+           id="use1790" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.8125,23.7669)"
+           id="use1791" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.4343,23.8438)"
+           id="use1792" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.0562,23.9207)"
+           id="use1793" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.6769,24.0054)"
+           id="use1794" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.2959,24.1022)"
+           id="use1795" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.9149,24.1989)"
+           id="use1796" />
+        <use
+           xlink:href="#path60"
+           transform="translate(39.5335,24.298)"
+           id="use1797" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.1462,24.4288)"
+           id="use1798" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.7557,24.5732)"
+           id="use1799" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.3604,24.7369)"
+           id="use1800" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.9557,24.9314)"
+           id="use1801" />
+        <use
+           xlink:href="#path60"
+           transform="translate(42.5458,25.1409)"
+           id="use1802" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.1199,25.3914)"
+           id="use1803" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.6819,25.6666)"
+           id="use1804" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.2302,25.9693)"
+           id="use1805" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.7583,26.306)"
+           id="use1806" />
+        <use
+           xlink:href="#path60"
+           transform="translate(45.2586,26.6828)"
+           id="use1807" />
+        <use
+           xlink:href="#path60"
+           transform="translate(45.7311,27.0938)"
+           id="use1808" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.1717,27.5387)"
+           id="use1809" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.5757,28.0171)"
+           id="use1810" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.937,28.5285)"
+           id="use1811" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.2452,29.0736)"
+           id="use1812" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.502,29.6444)"
+           id="use1813" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.7034,30.2371)"
+           id="use1814" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.8447,30.8468)"
+           id="use1815" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.9179,31.4684)"
+           id="use1816" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.9124,32.0941)"
+           id="use1817" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.837,32.7149)"
+           id="use1818" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.6887,33.3226)"
+           id="use1819" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.472,33.9095)"
+           id="use1820" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.1914,34.4687)"
+           id="use1821" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.8513,34.9939)"
+           id="use1822" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.4557,35.4787)"
+           id="use1823" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.0088,35.9165)"
+           id="use1824" />
+        <use
+           xlink:href="#path60"
+           transform="translate(45.515,36.3008)"
+           id="use1825" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.9806,36.6264)"
+           id="use1826" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.4136,36.891)"
+           id="use1827" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.8214,37.0938)"
+           id="use1828" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.2114,37.2339)"
+           id="use1829" />
+        <use
+           xlink:href="#path60"
+           transform="translate(42.5902,37.3109)"
+           id="use1830" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.9644,37.324)"
+           id="use1831" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.3406,37.2726)"
+           id="use1832" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.7256,37.1561)"
+           id="use1833" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.1264,36.9749)"
+           id="use1834" />
+        <use
+           xlink:href="#path60"
+           transform="translate(39.5484,36.7345)"
+           id="use1835" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.9964,36.4393)"
+           id="use1836" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.4744,36.0939)"
+           id="use1837" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.9859,35.7025)"
+           id="use1838" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.5344,35.269)"
+           id="use1839" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.1231,34.7972)"
+           id="use1840" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.7551,34.2909)"
+           id="use1841" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.4323,33.7546)"
+           id="use1842" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.155,33.1934)"
+           id="use1843" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.9235,32.6117)"
+           id="use1844" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.7377,32.0139)"
+           id="use1845" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.5973,31.4038)"
+           id="use1846" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.502,30.785)"
+           id="use1847" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.4516,30.1609)"
+           id="use1848" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.4456,29.5348)"
+           id="use1849" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.4826,28.9098)"
+           id="use1850" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.5607,28.2885)"
+           id="use1851" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.6781,27.6733)"
+           id="use1852" />
+        <use
+           xlink:href="#path60"
+           transform="translate(35.8327,27.0664)"
+           id="use1853" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.0229,26.4697)"
+           id="use1854" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.2468,25.8848)"
+           id="use1855" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.5027,25.3131)"
+           id="use1856" />
+        <use
+           xlink:href="#path60"
+           transform="translate(36.7993,24.7617)"
+           id="use1857" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.1061,24.2157)"
+           id="use1858" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.4539,23.6952)"
+           id="use1859" />
+        <use
+           xlink:href="#path60"
+           transform="translate(37.8108,23.1805)"
+           id="use1860" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.2053,22.6942)"
+           id="use1861" />
+        <use
+           xlink:href="#path60"
+           transform="translate(38.6053,22.2121)"
+           id="use1862" />
+        <use
+           xlink:href="#path60"
+           transform="translate(39.0391,21.7603)"
+           id="use1863" />
+        <use
+           xlink:href="#path60"
+           transform="translate(39.4757,21.3111)"
+           id="use1864" />
+        <use
+           xlink:href="#path60"
+           transform="translate(39.9444,20.8955)"
+           id="use1865" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.4138,20.4806)"
+           id="use1866" />
+        <use
+           xlink:href="#path60"
+           transform="translate(40.9133,20.1027)"
+           id="use1867" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.4138,19.7259)"
+           id="use1868" />
+        <use
+           xlink:href="#path60"
+           transform="translate(41.9417,19.3889)"
+           id="use1869" />
+        <use
+           xlink:href="#path60"
+           transform="translate(42.4708,19.0536)"
+           id="use1870" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.0247,18.7611)"
+           id="use1871" />
+        <use
+           xlink:href="#path60"
+           transform="translate(43.5799,18.471)"
+           id="use1872" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.1569,18.2275)"
+           id="use1873" />
+        <use
+           xlink:href="#path60"
+           transform="translate(44.7352,17.9869)"
+           id="use1874" />
+        <use
+           xlink:href="#path60"
+           transform="translate(45.332,17.7971)"
+           id="use1875" />
+        <use
+           xlink:href="#path60"
+           transform="translate(45.9299,17.6105)"
+           id="use1876" />
+        <use
+           xlink:href="#path60"
+           transform="translate(46.5392,17.4649)"
+           id="use1877" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.1552,17.3508)"
+           id="use1878" />
+        <use
+           xlink:href="#path60"
+           transform="translate(47.7763,17.2683)"
+           id="use1879" />
+        <use
+           xlink:href="#path60"
+           transform="translate(48.4008,17.2186)"
+           id="use1880" />
+        <use
+           xlink:href="#path60"
+           transform="translate(49.027,17.2023)"
+           id="use1881" />
+        <use
+           xlink:href="#path60"
+           transform="translate(49.6533,17.2198)"
+           id="use1882" />
+        <use
+           xlink:href="#path60"
+           transform="translate(50.2776,17.2713)"
+           id="use1883" />
+        <use
+           xlink:href="#path60"
+           transform="translate(50.8982,17.3571)"
+           id="use1884" />
+        <use
+           xlink:href="#path60"
+           transform="translate(51.513,17.4776)"
+           id="use1885" />
+        <use
+           xlink:href="#path60"
+           transform="translate(52.1198,17.633)"
+           id="use1886" />
+        <use
+           xlink:href="#path60"
+           transform="translate(52.7166,17.8237)"
+           id="use1887" />
+        <use
+           xlink:href="#path60"
+           transform="translate(53.3008,18.0497)"
+           id="use1888" />
+        <use
+           xlink:href="#path60"
+           transform="translate(53.8701,18.3112)"
+           id="use1889" />
+        <use
+           xlink:href="#path60"
+           transform="translate(54.4219,18.6076)"
+           id="use1890" />
+        <use
+           xlink:href="#path60"
+           transform="translate(54.9542,18.9379)"
+           id="use1891" />
+        <use
+           xlink:href="#path60"
+           transform="translate(55.4647,19.301)"
+           id="use1892" />
+        <use
+           xlink:href="#path60"
+           transform="translate(55.9508,19.696)"
+           id="use1893" />
+        <use
+           xlink:href="#path60"
+           transform="translate(56.4103,20.1218)"
+           id="use1894" />
+        <use
+           xlink:href="#path60"
+           transform="translate(56.8404,20.5771)"
+           id="use1895" />
+        <use
+           xlink:href="#path60"
+           transform="translate(57.2384,21.0608)"
+           id="use1896" />
+        <use
+           xlink:href="#path60"
+           transform="translate(57.6031,21.5701)"
+           id="use1897" />
+        <use
+           xlink:href="#path60"
+           transform="translate(57.9344,22.1017)"
+           id="use1898" />
+        <use
+           xlink:href="#path60"
+           transform="translate(58.2335,22.6523)"
+           id="use1899" />
+        <use
+           xlink:href="#path60"
+           transform="translate(58.5022,23.2182)"
+           id="use1900" />
+        <use
+           xlink:href="#path60"
+           transform="translate(58.7349,23.7998)"
+           id="use1901" />
+        <use
+           xlink:href="#path60"
+           transform="translate(58.9628,24.3831)"
+           id="use1902" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.1531,24.98)"
+           id="use1903" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.3365,25.5789)"
+           id="use1904" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.4861,26.1872)"
+           id="use1905" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.6357,26.7956)"
+           id="use1906" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.7853,27.404)"
+           id="use1907" />
+        <use
+           xlink:href="#path60"
+           transform="translate(59.931,28.0133)"
+           id="use1908" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.0676,28.6248)"
+           id="use1909" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.2042,29.2363)"
+           id="use1910" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.3408,29.8478)"
+           id="use1911" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.4865,30.4571)"
+           id="use1912" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.6447,31.0634)"
+           id="use1913" />
+        <use
+           xlink:href="#path60"
+           transform="translate(60.8175,31.6654)"
+           id="use1914" />
+        <use
+           xlink:href="#path60"
+           transform="translate(61.006,32.2628)"
+           id="use1915" />
+        <use
+           xlink:href="#path60"
+           transform="translate(61.2172,32.8522)"
+           id="use1916" />
+        <use
+           xlink:href="#path60"
+           transform="translate(61.4475,33.4348)"
+           id="use1917" />
+        <use
+           xlink:href="#path60"
+           transform="translate(61.7009,34.0074)"
+           id="use1918" />
+        <use
+           xlink:href="#path60"
+           transform="translate(61.9874,34.5644)"
+           id="use1919" />
+        <use
+           xlink:href="#path60"
+           transform="translate(62.3051,35.1041)"
+           id="use1920" />
+        <use
+           xlink:href="#path60"
+           transform="translate(62.6558,35.623)"
+           id="use1921" />
+        <use
+           xlink:href="#path60"
+           transform="translate(63.0402,36.1173)"
+           id="use1922" />
+        <use
+           xlink:href="#path60"
+           transform="translate(63.4586,36.5832)"
+           id="use1923" />
+        <use
+           xlink:href="#path60"
+           transform="translate(63.9113,37.0158)"
+           id="use1924" />
+        <use
+           xlink:href="#path60"
+           transform="translate(64.3979,37.4098)"
+           id="use1925" />
+        <use
+           xlink:href="#path60"
+           transform="translate(64.9175,37.7592)"
+           id="use1926" />
+        <use
+           xlink:href="#path60"
+           transform="translate(65.4678,38.0578)"
+           id="use1927" />
+        <use
+           xlink:href="#path60"
+           transform="translate(66.0454,38.2991)"
+           id="use1928" />
+        <use
+           xlink:href="#path60"
+           transform="translate(66.6434,38.4849)"
+           id="use1929" />
+        <use
+           xlink:href="#path60"
+           transform="translate(67.2546,38.6211)"
+           id="use1930" />
+        <use
+           xlink:href="#path60"
+           transform="translate(67.8754,38.7035)"
+           id="use1931" />
+        <use
+           xlink:href="#path60"
+           transform="translate(68.5007,38.7333)"
+           id="use1932" />
+        <use
+           xlink:href="#path60"
+           transform="translate(69.127,38.7356)"
+           id="use1933" />
+        <use
+           xlink:href="#path60"
+           transform="translate(69.751,38.6824)"
+           id="use1934" />
+        <use
+           xlink:href="#path60"
+           transform="translate(70.372,38.6037)"
+           id="use1935" />
+        <use
+           xlink:href="#path60"
+           transform="translate(70.9895,38.4979)"
+           id="use1936" />
+        <use
+           xlink:href="#path60"
+           transform="translate(71.5992,38.3542)"
+           id="use1937" />
+        <use
+           xlink:href="#path60"
+           transform="translate(72.2048,38.1946)"
+           id="use1938" />
+        <use
+           xlink:href="#path60"
+           transform="translate(72.806,38.0181)"
+           id="use1939" />
+        <use
+           xlink:href="#path60"
+           transform="translate(73.3984,37.814)"
+           id="use1940" />
+        <use
+           xlink:href="#path60"
+           transform="translate(73.9903,37.6086)"
+           id="use1941" />
+        <use
+           xlink:href="#path60"
+           transform="translate(74.5822,37.4033)"
+           id="use1942" />
+        <use
+           xlink:href="#path60"
+           transform="translate(75.1707,37.1881)"
+           id="use1943" />
+        <use
+           xlink:href="#path60"
+           transform="translate(75.759,36.9724)"
+           id="use1944" />
+        <use
+           xlink:href="#path60"
+           transform="translate(76.3474,36.7568)"
+           id="use1945" />
+        <use
+           xlink:href="#path60"
+           transform="translate(76.9431,36.5631)"
+           id="use1946" />
+        <use
+           xlink:href="#path60"
+           transform="translate(77.5392,36.3703)"
+           id="use1947" />
+        <use
+           xlink:href="#path60"
+           transform="translate(78.1353,36.1776)"
+           id="use1948" />
+        <use
+           xlink:href="#path60"
+           transform="translate(78.7423,36.0223)"
+           id="use1949" />
+        <use
+           xlink:href="#path60"
+           transform="translate(79.3535,35.8864)"
+           id="use1950" />
+        <use
+           xlink:href="#path60"
+           transform="translate(79.9691,35.7701)"
+           id="use1951" />
+        <use
+           xlink:href="#path60"
+           transform="translate(80.591,35.694)"
+           id="use1952" />
+        <use
+           xlink:href="#path60"
+           transform="translate(81.2158,35.6502)"
+           id="use1953" />
+        <use
+           xlink:href="#path60"
+           transform="translate(81.842,35.6385)"
+           id="use1954" />
+        <use
+           xlink:href="#path60"
+           transform="translate(82.468,35.6584)"
+           id="use1955" />
+        <use
+           xlink:href="#path60"
+           transform="translate(83.0922,35.7094)"
+           id="use1956" />
+        <use
+           xlink:href="#path60"
+           transform="translate(83.7131,35.791)"
+           id="use1957" />
+        <use
+           xlink:href="#path60"
+           transform="translate(84.3294,35.9027)"
+           id="use1958" />
+        <use
+           xlink:href="#path60"
+           transform="translate(84.9397,36.0442)"
+           id="use1959" />
+        <use
+           xlink:href="#path60"
+           transform="translate(85.5419,36.2171)"
+           id="use1960" />
+        <use
+           xlink:href="#path60"
+           transform="translate(86.1343,36.4209)"
+           id="use1961" />
+        <use
+           xlink:href="#path60"
+           transform="translate(86.7161,36.6528)"
+           id="use1962" />
+        <use
+           xlink:href="#path60"
+           transform="translate(87.286,36.9126)"
+           id="use1963" />
+        <use
+           xlink:href="#path60"
+           transform="translate(87.8426,37.1998)"
+           id="use1964" />
+        <use
+           xlink:href="#path60"
+           transform="translate(88.3843,37.514)"
+           id="use1965" />
+        <use
+           xlink:href="#path60"
+           transform="translate(88.9099,37.8547)"
+           id="use1966" />
+        <use
+           xlink:href="#path60"
+           transform="translate(89.4177,38.2214)"
+           id="use1967" />
+        <use
+           xlink:href="#path60"
+           transform="translate(89.9062,38.6137)"
+           id="use1968" />
+        <use
+           xlink:href="#path60"
+           transform="translate(90.3708,39.034)"
+           id="use1969" />
+      </g>
+      <circle
+         style="opacity:1;fill:url(#linearGradient1488);stroke-width:6.48615"
+         id="circle1969"
+         cx="114.03429"
+         cy="187.84349"
+         r="3.6494589" />
+    </g>
+    <rect
+       style="opacity:0.09337349;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1977)"
+       id="rect1971"
+       width="24.398983"
+       height="15.680859"
+       x="96.2686"
+       y="174.51855"
+       ry="4.3649602" />
+    <rect
+       style="opacity:1;fill:url(#meshgradient2014);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2013"
+       width="24.248402"
+       height="16.447659"
+       x="96.407135"
+       y="173.77582"
+       ry="4.3649602" />
+    <rect
+       style="opacity:1;fill:url(#meshgradient2897);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2897"
+       width="24.248402"
+       height="16.447659"
+       x="96.305138"
+       y="173.77582"
+       ry="4.3649602" />
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>

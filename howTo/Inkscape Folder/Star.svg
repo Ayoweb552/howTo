@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Star.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.6743757"
+     inkscape:cx="397.40459"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-opacity:1;stroke-width:1.489;stroke-linecap:round"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="95.730515"
+       sodipodi:cy="145.55746"
+       sodipodi:r1="75.57476"
+       sodipodi:r2="35.159515"
+       sodipodi:arg1="0.94390844"
+       sodipodi:arg2="1.572227"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 140.06473,206.76222 95.680213,180.71694 51.221359,206.63512 62.276318,156.3745 23.888131,122.10077 l 51.216855,-5.01749 20.733649,-47.100498 20.598795,47.159628 51.20229,5.16402 -38.4861,34.16375 z"
+       inkscape:transform-center-x="-0.033409968"
+       inkscape:transform-center-y="-7.1849659"
+       inkscape:label="Star" />
+  </g>
+</svg>

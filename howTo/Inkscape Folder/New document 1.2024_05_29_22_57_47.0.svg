@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="1"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <inkscape:path-effect
+       effect="dashed_stroke"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       numberdashes="3"
+       holefactor="0"
+       splitsegments="true"
+       halfextreme="true"
+       unifysegment="true"
+       message="Add &lt;b&gt;&quot;Fill Between Many LPE&quot;&lt;/b&gt; to add fill." />
+    <inkscape:path-effect
+       effect="gears"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       teeth="10"
+       phi="5"
+       min_radius="5" />
+    <inkscape:path-effect
+       effect="fill_between_many"
+       method="bsplinespiro"
+       autoreverse="false"
+       close="false"
+       join="false"
+       linkedpaths="#rect1,0,1"
+       id="path-effect4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;fill-rule:nonzero"
+       id="rect1"
+       width="100.47362"
+       height="71.135315"
+       x="85.201622"
+       y="102.08118"
+       sodipodi:type="rect"
+       transform="translate(-41.766134,14.066306)"
+       inkscape:path-effect="#path-effect2;#path-effect3"
+       d="m 85.701622,110.97309 v -8.89191 h -1 v 8.89191 z m 0,35.56766 v -17.78383 h -1 v 17.78383 z m 12.059202,26.17574 H 85.201622 l 0.5,0.5 v -8.89191 h -1 v 9.39191 h 13.059202 z m 50.236806,0 h -25.1184 v 1 h 25.1184 z m 37.17761,-8.39191 v 8.89191 l 0.5,-0.5 h -12.5592 v 1 h 13.0592 v -9.39191 z m 0,-35.56766 v 17.78383 h 1 v -17.78383 z m -12.0592,-26.17574 h 12.5592 l -0.5,-0.5 v 8.89191 h 1 v -9.39191 h -13.0592 z m -50.23681,0 h 25.1184 v -1 h -25.1184 z m -37.177608,8.39191 v -8.89191 l -0.5,0.5 h 12.559202 v -1 H 84.701622 v 9.39191 z"
+       inkscape:linked-fill="path4" />
+  </g>
+</svg>
