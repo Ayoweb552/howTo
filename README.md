@@ -42,3 +42,5 @@ Here are a few projects I've worked on:
 - [Personal Website](Your Personal Website)
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
+
+Also today I am working on a caculator project. Make sure to look at it
