@@ -38,7 +38,7 @@
                 <div class="number" id="num8">8</div>
                 <div class="number" id="num9">9</div>
                 <div class="number"id="num0">0</div>
-                <div class="operator">=</div>
+                     <div id="equal" class="number">=</div>
                 <div id="clear" class="number">C</div>
             </div>
             <div id="operators">
@@ -111,6 +111,10 @@
 
                     document.getElementById("divide").onclick = function write1() {
                         document.getElementById("screen").innerHTML = "/";
+                    }
+
+                        document.getElementById("equal").onclick = function write1() {
+                        document.getElementById("screen").innerHTML = "=";
                     }
                 </script>
 </div>
