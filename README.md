@@ -44,3 +44,4 @@ Here are a few projects I've worked on:
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just chat about tech.
 
 Also today I am working on a caculator project. Make sure to look at it
+Also view my custom scroll bar that I made a example
